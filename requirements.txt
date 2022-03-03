@@ -1,0 +1,15 @@
+django-model-utils==4.0.0
+djangorestframework==3.12.1
+django-filter==2.4.0
+djangorestframework-filters==1.0.0.dev0
+django-extensions==3.0.9
+django-model-utils==4.0.0
+django-rest-knox==4.1.0
+Django>=3.0,<4.0
+psycopg2>=2.8
+cryptography==3.4.7
+drf-yasg==1.20.0
+pytest-django==4.4.0
+pytest-cov==2.12.1
+pytest-freezegun==0.4.2
+factory-boy==3.2.0
